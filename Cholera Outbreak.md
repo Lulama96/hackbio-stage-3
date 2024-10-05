@@ -20,11 +20,11 @@ https://github.com/Lulama96/hackbio-stage-3/blob/main/Figures/cases.png
 
 Figure 2: Total cholera reported cases in Afghanistan over time.
 
-![][image3]
+https://github.com/Lulama96/hackbio-stage-3/blob/main/Figures/deaths.png
 
 Figure 3: Total number of reported deaths due to cholera in Afghanistan over time
 
-![][image4]
+
 
 Figure 4: Cholera fatality rate in Afghanistan over time
 
