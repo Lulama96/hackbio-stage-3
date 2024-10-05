@@ -12,11 +12,11 @@ Review of the trend analysis and country specific statistics
 
 In Figure 1, the total reported cases are shown to be the highest across all the years compared to deaths and fatality. The number of reported cases has been fluctuating over the years with the year 1991 and 2001 having the highest number of reported cases. Cholera outbreak statistics for Afghanistan over time are shown in Figure 2, 3 and 4\. The number of reported cases was the highest around 2011 and the reported deaths were the highest around 1990 with fatality rate being the highest in early years of the outbreak which may be due to the lack of treatment availability.
 
-(https://github.com/Lulama96/hackbio-stage-3/blob/main/Figures/Trend.png)
+https://github.com/Lulama96/hackbio-stage-3/blob/main/Figures/Trend.png
 
 Figure 1: Trend analysis of cholera outbreak.
 
-![][image2]
+https://github.com/Lulama96/hackbio-stage-3/blob/main/Figures/cases.png
 
 Figure 2: Total cholera reported cases in Afghanistan over time.
 
